@@ -1,0 +1,16 @@
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+*.s
+*.txt
+my_*.*
+official_*.*
+*.log
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
